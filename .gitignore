@@ -1,2 +1,9 @@
 # Project exclude paths
 /target/
+/.idea/sbt.xml
+/.idea/uiDesigner.xml
+/.idea/misc.xml
+/SparkStreamingExamples.iml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/codeStyles/codeStyleConfig.xml
